@@ -1,3 +1,20 @@
+
 .gras {
 	font-weight: bold;
+}
+.red {
+	color: red;
+}
+
+main {
+	margin-right: 90px;
+	margin-left: 90px;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+.entete {
+	font-size: 40px;
 }
